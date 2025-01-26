@@ -2,7 +2,7 @@
 
 IntentKit is an autonomous agent framework that enables the creation and management of AI agents with various capabilities including blockchain interactions, social media management, and custom skill integration.
 
-## Alpha Warning
+## Alpha Warning!!
 
 This project is currently in alpha stage and is not recommended for production use.
 
